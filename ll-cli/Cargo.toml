@@ -1,0 +1,8 @@
+[package]
+name = "ll-cli"
+version = "0.1.0"
+description = "The CLI for interfacing with the LL compiler."
+edition = "2021"
+
+[dependencies]
+ll-compiler = { path = "../ll-compiler" }

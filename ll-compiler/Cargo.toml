@@ -1,0 +1,5 @@
+[package]
+name = "ll-compiler"
+version = "0.1.0"
+description = "The compiler for the LL language."
+edition = "2021"

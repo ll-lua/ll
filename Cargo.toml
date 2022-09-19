@@ -1,0 +1,2 @@
+[workspace]
+members = ["ll-compiler", "ll-cli"]
